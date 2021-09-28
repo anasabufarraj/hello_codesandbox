@@ -1,2 +1,2 @@
-# hello_code_sandbox
+# Hello, Code Sandbox!
 Created with CodeSandbox
